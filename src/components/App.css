@@ -1,0 +1,22 @@
+/* Styles go here */
+.header{
+    margin-left: 36%;
+}
+.headInfo{
+    margin-left: 43%;
+}
+.isOwner{
+    display: none;
+}
+.ownerSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+}
+.winner{
+    display: none;
+}
