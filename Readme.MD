@@ -1,3 +1,3 @@
 
 ## D-loto :- A Decentralize Application Based on Ethereum Blockchain.
- In this App User Buy lottery Tickets with their Ethers and this ether is transferd to Ethereum Smart Contract, if a good ammount of Participants registered . then owner will select the winner and all the ether in the smartcontract will be transferd to the winner.
+In this app user can buy lottery tickets with their ethers and it will be stored on ether ethereum smart contract. If a certain number of contestants registered, Then there is the owner who will select the winner and who will be the winner given all the ethers present on the smart contracts.
